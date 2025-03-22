@@ -1,0 +1,1 @@
+En el Archivo comprimido encontrara el Jupyter Notebook de la Tarea 1 con todos los puntos porque no me dejaba subirlo normal, adicional se subio el notebook de cada uno de los puntos separados para poder ser cargados
